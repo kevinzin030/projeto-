@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "kevin luiz",
+        "usuario": "kevin",
+        "email": "teste@gmail.com",
+        "senha": "2345",
+        "cargo": "Administrador"
+    },
+    {
+        "nome": "fernanda",
+        "usuario": "fefe",
+        "email": "feteste@gmail.com",
+        "senha": "232425",
+        "cargo": "Funcion\u00e1rio"
+    },
+    {
+        "nome": "nicolas",
+        "usuario": "nick",
+        "email": "teste2@gmail.com",
+        "senha": "252627",
+        "cargo": "Funcion\u00e1rio"
+    },
+    {
+        "nome": "jo\u00e3o",
+        "usuario": "jo\u00e3o",
+        "email": "teste3@gmail.com",
+        "senha": "212223",
+        "cargo": "Aluno"
+    },
+    {
+        "nome": "teste",
+        "usuario": "teste",
+        "email": "teste4@gmail.com",
+        "senha": "1234",
+        "cargo": "Aluno"
+    },
+    {
+        "nome": "dilza",
+        "usuario": "dilza",
+        "email": "dilzamara@gmail.com",
+        "senha": "3435",
+        "cargo": "Aluno"
+    }
+]
